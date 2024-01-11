@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cosmetics/static/css/main.aaa9dfb9.css",
+    "main.js": "/cosmetics/static/js/main.614e43f6.js",
+    "static/media/cosmetic1.jpg": "/cosmetics/static/media/cosmetic1.1003e688345cb0cee29e.jpg",
+    "index.html": "/cosmetics/index.html",
+    "main.aaa9dfb9.css.map": "/cosmetics/static/css/main.aaa9dfb9.css.map",
+    "main.614e43f6.js.map": "/cosmetics/static/js/main.614e43f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaa9dfb9.css",
+    "static/js/main.614e43f6.js"
+  ]
+}
