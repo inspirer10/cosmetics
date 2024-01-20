@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/cosmetics/static/css/main.c37fe259.css",
-    "main.js": "/cosmetics/static/js/main.0dea2a3a.js",
+    "main.css": "/cosmetics/static/css/main.5696b8ae.css",
+    "main.js": "/cosmetics/static/js/main.cf2572e7.js",
     "static/media/cosmetic1.jpg": "/cosmetics/static/media/cosmetic1.1003e688345cb0cee29e.jpg",
     "index.html": "/cosmetics/index.html",
-    "main.c37fe259.css.map": "/cosmetics/static/css/main.c37fe259.css.map",
-    "main.0dea2a3a.js.map": "/cosmetics/static/js/main.0dea2a3a.js.map"
+    "main.5696b8ae.css.map": "/cosmetics/static/css/main.5696b8ae.css.map",
+    "main.cf2572e7.js.map": "/cosmetics/static/js/main.cf2572e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.c37fe259.css",
-    "static/js/main.0dea2a3a.js"
+    "static/css/main.5696b8ae.css",
+    "static/js/main.cf2572e7.js"
   ]
 }
